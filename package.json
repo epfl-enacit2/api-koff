@@ -1,0 +1,23 @@
+{
+  "name": "api-koff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epfl-enacit2/api-koff.git"
+  },
+  "author": "ncrausaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epfl-enacit2/api-koff/issues"
+  },
+  "homepage": "https://github.com/epfl-enacit2/api-koff#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
